@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Safwan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/safwan-haider-432550202/)](https://https://www.linkedin.com/in/safwan-haider-432550202/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Safwan-yellow)](https://stackoverflow.com/users/20123392/safwan-haider)
 
 I'm
 Full Stack Solution Architect
